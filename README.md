@@ -1,5 +1,3 @@
-Certainly! Here's a Markdown documentation template for the "Java: The Complete Java Developer Course" repository, including some tech emojis:
-
 # Java: The Complete Java Developer Course
 
 📚 A comprehensive course for learning Java development.
